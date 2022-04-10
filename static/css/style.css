@@ -1,0 +1,34 @@
+body {
+
+    color: #ac9ab3;
+}
+
+.jumbotron {
+    background-image: url("../images/ufos.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+    color: white;
+}
+
+.article-title, .article-p {
+    padding: 20px;
+  }
+  form {
+    padding: 5px;
+  }
+  
+  #filter-btn {
+    width: 100%;
+  }
+
+.col-md-8 {
+    background-color: black;
+}
+.col-md-9 {
+    background-color: black;
+}
+.col-md-4 {
+    background-color: rgb(24, 23, 35);
+    color: white;
+    text-align: center;
+}
